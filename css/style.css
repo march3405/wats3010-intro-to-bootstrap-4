@@ -8,6 +8,9 @@
 .card-header{
     text-align: center;
 }
+body {
+background-color: #808080;
+}
 
 /*zoom*/
 .zoom:hover {
@@ -16,6 +19,15 @@
     transform: scale(1.2); 
   }
   /*card body background*/
-  .card-body{
-      
+  
+/*text color*/
+.Nav-C {
+color:#5bebf0;
+font: 30px sans-serif;
+}
+h1,h2 {
+color:#5bebf0;
+}
+.col-lg-6,.col-lg-4s,.col-lg-8 {
+    color:white;
 }
